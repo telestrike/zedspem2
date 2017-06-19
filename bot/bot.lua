@@ -102,8 +102,6 @@ function create_config( )
     "Tools",
     "Write"
     "Nerkh"
-    "Roker"
-    "Rank"
 	},
     sudo_users = {277313212},
     admins = {},
